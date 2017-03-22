@@ -1,6 +1,6 @@
 ## FileSender Project
 
-FileSender is a web based application that allows authenticated users to securely and easily send arbitrarily large files to other users.
+Welcome to the landing page for the FileSender project.
 
 We have recently moved the project from Assembla to GitHub.  The old Assembla project pages are still available, but should no longer be seen as the primary source of information.
 
