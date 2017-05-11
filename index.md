@@ -1,5 +1,5 @@
 
-##FileSender project
+## FileSender project
 
 You know the problem. You need to send a file larger than a couple of megabytes to someone and the email comes back: attachment too big. Then what?
 
@@ -30,7 +30,7 @@ We'd love for you to help us improve FileSender!
 * **[Please check our contribution guide](https://github.com/filesender/filesender/blob/master/CONTRIBUTE.md)**
 * **[FileSender Documentation](//docs.filesender.org/v2.0/)**
 
-###News
+### News
 
 The FileSender project has a [Blog](https://blog.filesender.org/), where news and status updates are posted.  You can also [follow us on Twitter] (https://twitter.com/filesender)
 
@@ -38,11 +38,11 @@ The FileSender project has a [Blog](https://blog.filesender.org/), where news an
 
 FileSender is released under the [BSD license](http://opensource.org/licenses/BSD-3-Clause). It is open source software and available for free.  As an open source project, Filesender relies on donations to keep its development effort alive.  [Find out more](https://commonsconservancy.org/programmes/) about how you can support Filesender via the Commons Conservancy. 
 
-## Mailing Lists
+### Mailing Lists
 
 The FileSender project uses a number of mailinglists to support people deploying FileSender software and to coordinate development. Please go to the [Support and Mailinglists](https://app.assembla.com/wiki/show/file_sender/Support_and_Mailinglists) page and subscribe yourself to those lists relevant for you.
 
-###Previous Pages
+### Previous Pages
 
 We have recently moved the project from Assembla to GitHub.  The old Assembla project pages are still available, but should no longer be seen as the primary source of information.
 
