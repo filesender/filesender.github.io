@@ -32,7 +32,7 @@ We'd love for you to help us improve FileSender!
 
 ### News
 
-The FileSender project has a [Blog](https://blog.filesender.org/), where news and status updates are posted.  You can also [follow us on Twitter] (https://twitter.com/filesender)
+The FileSender project has a [Blog](https://blog.filesender.org/), where news and status updates are posted.  You can also [follow us on Twitter](https://twitter.com/filesender)
 
 ### License and Donations
 
