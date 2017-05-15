@@ -36,7 +36,7 @@ The FileSender project has a [Blog](https://blog.filesender.org/), where news an
 
 ### License and Donations
 
-FileSender is released under the [BSD license](http://opensource.org/licenses/BSD-3-Clause). It is open source software and available for free.  As an open source project, Filesender relies on donations to keep its development effort alive.  [Find out more](https://commonsconservancy.org/programmes/) about how you can support Filesender via the Commons Conservancy. 
+FileSender is released under the [BSD license](http://opensource.org/licenses/BSD-3-Clause). It is open source software and available for free.  As an open source project, Filesender relies on donations to keep its development effort alive.  [Find out more](https://commonsconservancy.org/programmes/) about how you can support Filesender via The Commons Conservancy. 
 
 ### Mailing Lists
 
