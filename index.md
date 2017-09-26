@@ -40,10 +40,10 @@ FileSender is released under the [BSD license](http://opensource.org/licenses/BS
 
 ### Mailing Lists
 
-The FileSender project uses a number of mailinglists to support people deploying FileSender software and to coordinate development. Please go to the [Support and Mailinglists](https://app.assembla.com/wiki/show/file_sender/Support_and_Mailinglists) page and subscribe yourself to those lists relevant for you.
+The FileSender project uses a number of mailinglists to support people deploying FileSender software and to coordinate development. Please go to the [Support and Mailinglists](http://docs.filesender.org/mailinglist) page and subscribe yourself to those lists relevant for you.
 
-### Previous Pages
+### FileSender 1.x site
 
-We have recently moved the project from Assembla to GitHub.  The old Assembla project pages are still available, but should no longer be seen as the primary source of information.
+We have recently moved the project from Assembla to GitHub.  The information stored on Assembla (wiki pages, tickets) was exported. The information is no longer maintained but is available for viewing in a separate Github repository.
 
-* **[View the old FileSender project pages on Assembla](https://www.assembla.com/spaces/file_sender)**
+* **[View the old FileSender Assembla pages](https://github.com/filesender/assembla-export)**
