@@ -12,7 +12,7 @@ The purpose of the software is to send a large file to someone, have that file a
 
 Thanks for considering Filesender. Below you can find ways to connect to your institution’s Filesender or try out a demo of the Filesender kindly provided by GÉANT.  
 
-* **[Connect to your institution’s Filesender](https://app.assembla.com/spaces/file_sender/wiki/Existing_installations)**
+* **[Connect to your institution’s Filesender](https://github.com/filesender/assembla-export/blob/master/wiki/Existing_installations.pdf)**
 * **[Try out a demo version of Filesender](https://filesender.geant.org/)**
 
 ### Information for administrators
