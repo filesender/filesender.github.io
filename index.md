@@ -12,7 +12,7 @@ The purpose of the software is to send a large file to someone, have that file a
 
 Thanks for considering Filesender. Below you can find ways to connect to your institution’s Filesender or try out a demo of the Filesender kindly provided by GÉANT.  
 
-* **Find your country’s Filesender in [the list of known installs](https://github.com/filesender/filesender/blob/master/docs/known-installs.md)**
+* **Find your country’s Filesender in [the list of known installs](https://docs.filesender.org/known-installs)**
 * **[Try out a demo version of Filesender](https://filesender.geant.org/)**
 
 ### Information for administrators
