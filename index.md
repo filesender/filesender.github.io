@@ -12,23 +12,23 @@ The purpose of the software is to send a large file to someone, have that file a
 
 Thanks for considering Filesender. Below you can find ways to connect to your institution’s Filesender or try out a demo of the Filesender kindly provided by GÉANT.  
 
-* **Find your country’s Filesender in [the list of known installs](https://docs.filesender.org/known-installs)**
+* **Find your country’s Filesender in [the list of known installs](https://docs.filesender.org/filesender/known-installs)**
 * **[Try out a demo version of Filesender](https://filesender.geant.org/)**
 
 ### Information for administrators
 
 Download FileSender free of charge and install it on your own infrastructure, regardless if you're profit or non-profit.  Everybody is free to use our software as they please.
 
-* **[Install FileSender on your infrastructure](//docs.filesender.org/v2.0/install/)**
-* **[Configuration of FileSender](//docs.filesender.org/v2.0/admin/configuration/)**
-* **[FileSender Documentation](//docs.filesender.org/v2.0/)**
+* **[Install FileSender on your infrastructure](//docs.filesender.org/filesender/v2.0/install/)**
+* **[Configuration of FileSender](//docs.filesender.org/filesender/v2.0/admin/configuration/)**
+* **[FileSender Documentation](//docs.filesender.org/filesender/v2.0/)**
 
 ### Information for developers
 
 We'd love for you to help us improve FileSender!
 
 * **[Please check our contribution guide](https://github.com/filesender/filesender/blob/master/CONTRIBUTE.md)**
-* **[FileSender Documentation](//docs.filesender.org/v2.0/)**
+* **[FileSender Documentation](//docs.filesender.org/filesender/v2.0/)**
 
 ### News
 
@@ -40,7 +40,7 @@ FileSender is released under the [BSD license](http://opensource.org/licenses/BS
 
 ### Mailing Lists
 
-The FileSender project uses a number of mailinglists to support people deploying FileSender software and to coordinate development. Please go to the [Support and Mailinglists](http://docs.filesender.org/mailinglist) page and subscribe yourself to those lists relevant for you.
+The FileSender project uses a number of mailinglists to support people deploying FileSender software and to coordinate development. Please go to the [Support and Mailinglists](http://docs.filesender.org/filesender/mailinglist) page and subscribe yourself to those lists relevant for you.
 
 ### FileSender 1.x site
 
