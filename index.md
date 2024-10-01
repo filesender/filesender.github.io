@@ -32,7 +32,7 @@ We'd love for you to help us improve FileSender!
 
 ### News
 
-The FileSender project has a [Blog](https://blog.filesender.org/), where news and status updates are posted.  You can also [follow us on Twitter](https://twitter.com/filesender)
+The FileSender project releases news through its website at [www.filesender.org/news](https://filesender.org/news/).  You can also [follow us on Twitter](https://twitter.com/filesender)
 
 ### License and Donations
 
@@ -44,6 +44,6 @@ The FileSender project uses a number of mailinglists to support people deploying
 
 ### FileSender 1.x site
 
-We have recently moved the project from Assembla to GitHub.  The information stored on Assembla (wiki pages, tickets) was exported. The information is no longer maintained but is available for viewing in a separate Github repository.
+Development for version 1.x was done on the Assembla platform. After we moved to Github in 2016 the information stored on Assembla (wiki pages, tickets) was exported. The information is no longer maintained but is available for viewing in a separate Github repository.
 
 * **[View the old FileSender Assembla pages](https://github.com/filesender/assembla-export)**
